@@ -23,7 +23,7 @@ namespace AzureFunctionConnectionStrings
             switch (name.ToLower())
             {
                 case "px":
-                    value = "This is PX value";
+                    value = "This is PX value updated";
                     break;
                 case "qa":
                     value = "This is QA value";
